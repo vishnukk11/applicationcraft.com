@@ -10,7 +10,7 @@ We encourage you to send us pull requests for anything that you think may fix or
 
 This repository is hosted on Github as a Git repo at [https://github.com/ApplicationCraft/applicationcraft.com](https://github.com/ApplicationCraft/applicationcraft.com). You will therefore need to install Git so you can check out the code and run it locally.
 
-You will also need the latest version of Ruby 1.9.3, along with RubyGems and Bundler.
+You will also need the Ruby 1.9.3 minimum and upper version, along with RubyGems and Bundler.
 
 
 ### Getting Started ###
